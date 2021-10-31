@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nft-game-dapp/static/css/main.0af1bdcc.chunk.css",
+    "main.css": "/nft-game-dapp/static/css/main.d374d75f.chunk.css",
     "main.js": "/nft-game-dapp/static/js/main.4ac9310b.chunk.js",
     "main.js.map": "/nft-game-dapp/static/js/main.4ac9310b.chunk.js.map",
     "runtime-main.js": "/nft-game-dapp/static/js/runtime-main.d2277e4d.js",
@@ -10,13 +10,13 @@
     "static/js/3.e79db580.chunk.js": "/nft-game-dapp/static/js/3.e79db580.chunk.js",
     "static/js/3.e79db580.chunk.js.map": "/nft-game-dapp/static/js/3.e79db580.chunk.js.map",
     "index.html": "/nft-game-dapp/index.html",
-    "static/css/main.0af1bdcc.chunk.css.map": "/nft-game-dapp/static/css/main.0af1bdcc.chunk.css.map",
+    "static/css/main.d374d75f.chunk.css.map": "/nft-game-dapp/static/css/main.d374d75f.chunk.css.map",
     "static/js/2.f8d12595.chunk.js.LICENSE.txt": "/nft-game-dapp/static/js/2.f8d12595.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2277e4d.js",
     "static/js/2.f8d12595.chunk.js",
-    "static/css/main.0af1bdcc.chunk.css",
+    "static/css/main.d374d75f.chunk.css",
     "static/js/main.4ac9310b.chunk.js"
   ]
 }
